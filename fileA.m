@@ -1,5 +1,5 @@
 disp('hello world')
 disp('hello lishi')
 disp('goodbye')
-disp('cousin')
 disp('oligo')
+disp('yo sista')
